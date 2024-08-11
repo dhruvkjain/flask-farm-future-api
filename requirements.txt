@@ -9,3 +9,4 @@ openpyxl
 Flask-Cors
 markupsafe
 gunicorn
+uwsgi
