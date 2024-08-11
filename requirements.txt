@@ -1,0 +1,7 @@
+Flask
+pmdarima
+pandas
+numpy
+statsmodels
+matplotlib
+openpyxl
